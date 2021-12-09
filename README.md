@@ -1,7 +1,7 @@
 # Welcome to my GitHub profile!
 
 This is a collection of my previous and ongoing work from both University and personal projects.
-You can check out my website at mattmaton.co.uk [mattmaton.co.uk](https://mattmaton.co.uk)
+You can check out my website at [mattmaton.co.uk](https://mattmaton.co.uk)
 
 
 # My GitHub Stats
